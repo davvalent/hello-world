@@ -1,3 +1,5 @@
 # hello-world
-stop coding alone
-I'll try...
+
+Stop coding alone! Okay!
+
+I'll try that soon...

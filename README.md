@@ -9,3 +9,7 @@ I'll try that soon...
 Première édition en français. Première édition tout court.
 - Une belle liste
 - Bla.
+
+# Ajouté sur branch parallèle...
+
+Donc en plus deas autres, modifs, je veux voir celle-là!

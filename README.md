@@ -4,6 +4,10 @@ Stop coding alone! Okay!
 
 I'll try that soon...
 
+# Yes sir
+
+Yes sir!
+
 # So, here we go... in french!
 
 Première édition en français. Première édition tout court.

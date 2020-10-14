@@ -10,6 +10,6 @@ Première édition en français. Première édition tout court.
 - Une belle liste
 - Bla.
 
-# Ajouté sur branch parallèle.
+# Ajouté sur branch master viarge
 
-Ici.
+Ici, donc je veux que ça reste.

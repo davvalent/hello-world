@@ -10,6 +10,10 @@ Les Milestone sont les objectifs qui définissent des grandes étapes du projet 
 
 ### Modèles
 - BDD
+  - Modélisation
+  - Déploiement
+  - Import
+- Interface
 
 ## Labels
 Les labels définnissent les thèmes qui lient entre elles les issues peu importe le Milestone auquel elles sont associées. Transversal.

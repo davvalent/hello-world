@@ -3,3 +3,6 @@
 
 ## On continue
 Dis-je!
+
+## Différents stades
+Ici!

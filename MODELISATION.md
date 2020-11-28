@@ -1,6 +1,6 @@
-# [MODÈLE] Modélisaiton sématique BDD
-# Diagramme E-R
+# [MODÈLE] Modélisation sémantique d'une base de données relationnelle
+# Diagramme entités-relations
 # Structure globale
 ## Contexte
 ## Structures des tables
-Etc.
+## Exemple de données valides

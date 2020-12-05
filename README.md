@@ -3,7 +3,7 @@ Stop coding alone!
 
 # TOC
 
-toggle, toggle
+toggle, toggle, toggle
 
 ## Notes sur la gestion de projet avec GitHub
 
